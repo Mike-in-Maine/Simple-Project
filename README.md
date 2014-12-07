@@ -1,4 +1,4 @@
 Simple-Project
 ==============
 
-My simple project
+This is my first project that I would like to develop here in PHP
